@@ -1,0 +1,14 @@
+html, body, form
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+body
+{
+	background: url("images/image 2.png");
+	background-repeat: repeat;
+}
+
+/*Font*/
